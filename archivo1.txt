@@ -1,7 +1,9 @@
-1. primera linea. RGM.
-2. segunda linea RGM.
-3. tercera linea RGM en GIT HUB. Correccion local.
-4. cuarta linea RGM en GIT HUB. Correccion local.
-5. quinta linea RGM en GIT HUB. Correccion remota.
+1. Primera linea. RGM.
+2. Segunda linea RGM.
+3. Tercera linea RGM en GIT HUB. Correccion local.
+4. Cuarta linea RGM en GIT HUB. Correccion local.
+5. Quinta linea RGM en GIT HUB. Correccion remota.
+
+# Se escriben las primeras letras en MAYUSCULAS.
 
 # Se aceptan los cambios en LOCAL y este comentario se escribe en remoto.
