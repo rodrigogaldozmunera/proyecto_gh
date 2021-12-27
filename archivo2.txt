@@ -2,3 +2,5 @@
 
 # CARLOS CORRIGE LA PALABRA tercera POR primera en este archivo.
 # LA CORRECCION ES LOCAL A LA MAQUINA DE CARLOS
+
+# RGM. Gracias por la correccion realizada CARLOS.
