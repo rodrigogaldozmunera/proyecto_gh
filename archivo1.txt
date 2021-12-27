@@ -2,3 +2,5 @@
 2. segunda linea RGM.
 3. tercera linea RGM en GIT HUB. Correccion local.
 4. cuarta linea RGM en GIT HUB. Correccion local.
+
+# Se aceptan los cambios en LOCAL y este comentario se escribe en remoto.
