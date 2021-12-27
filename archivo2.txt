@@ -1,1 +1,4 @@
-1. tercera linea de archivo 2 en local. RGM. LOCAL.
+1. primera linea de archivo 2 en local. RGM. LOCAL.
+
+# CARLOS CORRIGE LA PALABRA tercera POR primera en este archivo.
+# LA CORRECCION ES LOCAL A LA MAQUINA DE CARLOS
